@@ -30,7 +30,7 @@ Bu projede hazır bir veri seti kullanılmamış; veriler tamamen **özgün olar
 
 ### Dosya Yapısı
 - [**VeriMadenciligiProjeKod.ipynb**](./VeriMadenciligiProjeKod.ipynb): Veri analizi, görselleştirmeler ve regresyon modellerinin kurulup karşılaştırıldığı Python Notebook dosyası.
-- [**BİL 3013 Veri Madenciliğine Giriş Proje Raporu.docx**](./BİL%203013%20Veri%20Madenciliğine%20Giriş%20Proje%20Raporu.docx): Veri toplama sürecini, analiz bulgularını ve güncel model çıktılarını detaylandıran proje raporu.
+- [**BİL 3013 Veri Madenciliğine Giriş Proje Raporu.pdf**](./BİL%203013%20Veri%20Madenciliğine%20Giriş%20Proje%20Raporu.pdf): Veri toplama sürecini, analiz bulgularını ve güncel model çıktılarını detaylandıran proje raporu.
 - [**Bil-1016-Veriler.csv**](./Bil-1016-Veriler.csv): Anket yoluyla kendi topladığımız 12 satırlık ham veri seti.
 - [**E-Tablo-Linki.txt**](./E-Tablo-Linki.txt): Verilerin toplandığı Google Forms ve yanıtların tutulduğu Google Sheets bağlantılarını içeren metin belgesi.
 
@@ -62,6 +62,6 @@ Three different regression algorithms were used to model the relationship betwee
 
 ### Repository Structure
 - [**VeriMadenciligiProjeKod.ipynb**](./VeriMadenciligiProjeKod.ipynb): The Python Notebook containing data analysis, visualizations, and the implementation/comparison of regression models.
-- [**BİL 3013 Veri Madenciliğine Giriş Proje Raporu.docx**](./BİL%203013%20Veri%20Madenciliğine%20Giriş%20Proje%20Raporu.docx): The project report detailing the data collection process, analysis findings, and updated model outputs.
+- [**BİL 3013 Veri Madenciliğine Giriş Proje Raporu.pdf**](./BİL%203013%20Veri%20Madenciliğine%20Giriş%20Proje%20Raporu.pdf): The project report detailing the data collection process, analysis findings, and updated model outputs.
 - [**Bil-1016-Veriler.csv**](./Bil-1016-Veriler.csv): The raw dataset of 12 instances collected uniquely through our survey.
 - [**E-Tablo-Linki.txt**](./E-Tablo-Linki.txt): Text file containing the links to the Google Forms survey and the Google Sheets where the responses were recorded.
